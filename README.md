@@ -81,7 +81,8 @@ All data is persisted using localStorage. The following data structures are main
 - Data is stored locally in the browser
 
 ##Preview of the Website 
-https://github.com/aman-1511/Ship_Maintenance_Dashboard/issues/1
+1. Login Page 
+ alt="Image" src="https://github.com/user-attachments/assets/9e1b952b-5a2a-4df3-a63b-5d4bece64d54" 
 
 
 ## Technical Decisions
