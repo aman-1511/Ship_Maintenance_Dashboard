@@ -86,9 +86,18 @@ All data is persisted using localStorage. The following data structures are main
 
 2. Login Page (Inspector) ![2](https://github.com/user-attachments/assets/48f1d33b-748f-4e87-9c35-ef8494fd4a9b)
 3.Dashboard
-![3](https://github.com/user-attachments/assets/7433c690-93bd-48d7-8d7b-e0f7406ebd6e)
-
-
+![3](https://github.com/user-attachments/assets/e7a65a80-95ee-4d8d-ae7c-b03578df5e4f)
+![Image 1](https://github.com/user-attachments/assets/0c7c8ecd-e9ed-4b27-8847-1fcce009cdc6)
+![Image 2](https://github.com/user-attachments/assets/6095a48e-2e99-48fd-a5dd-9ecfad0d386b)
+![Image 3](https://github.com/user-attachments/assets/2a56a81e-9b5b-450c-8401-7f60e4821bef)
+![Image 4](https://github.com/user-attachments/assets/e10d2998-494b-49ef-b5d9-f54ef264a8a6)
+![Image 5](https://github.com/user-attachments/assets/e8536aa4-9dbb-4c76-86ac-2970a9ad6213)
+![Image 6](https://github.com/user-attachments/assets/512ae8a6-84cf-48be-803d-d51c816966aa)
+![Image 7](https://github.com/user-attachments/assets/919db93e-5018-42e9-871e-67902bc96a20)
+![Image 8](https://github.com/user-attachments/assets/bcc97747-19f9-4b94-a615-f464542410dc)
+![Image 9](https://github.com/user-attachments/assets/0d5ae14b-4a3f-456c-9ef8-68baf3b0e5c2)
+![Image 10](https://github.com/user-attachments/assets/eff35b33-36a5-408d-9e2d-b13d88243442)
+![Image 11](https://github.com/user-attachments/assets/3701df27-451c-4ca6-afb8-b2d29c968117)
 
 ## Technical Decisions
 
