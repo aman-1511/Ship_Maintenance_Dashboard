@@ -104,7 +104,7 @@ All data is persisted using localStorage. The following data structures are main
 ![Image 10](https://github.com/user-attachments/assets/eff35b33-36a5-408d-9e2d-b13d88243442)
 ![Image 11](https://github.com/user-attachments/assets/3701df27-451c-4ca6-afb8-b2d29c968117)
 
-## Features and Stack
+## Technical Decisions
 
 1. **State Management**: Redux Toolkit was chosen for its simplicity and built-in best practices
 2. **UI Framework**: Material-UI for consistent design and responsive components
