@@ -81,8 +81,9 @@ All data is persisted using localStorage. The following data structures are main
 - Data is stored locally in the browser
 
 ##Preview of the Website 
-1. Login Page 
- https://github.com/user-attachments/assets/9e1b952b-5a2a-4df3-a63b-5d4bece64d54
+1. Login Page
+   ![1]( https://github.com/user-attachments/assets/9e1b952b-5a2a-4df3-a63b-5d4bece64d54)
+
 
 
 ## Technical Decisions
