@@ -82,7 +82,7 @@ All data is persisted using localStorage. The following data structures are main
 
 ##Preview of the Website 
 1. Login Page 
- alt="Image" src="https://github.com/user-attachments/assets/9e1b952b-5a2a-4df3-a63b-5d4bece64d54" 
+ https://github.com/user-attachments/assets/9e1b952b-5a2a-4df3-a63b-5d4bece64d54
 
 
 ## Technical Decisions
