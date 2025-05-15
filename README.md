@@ -80,6 +80,10 @@ All data is persisted using localStorage. The following data structures are main
 - No real backend integration
 - Data is stored locally in the browser
 
+##Preview of the Website 
+https://github.com/aman-1511/Ship_Maintenance_Dashboard/issues/1
+
+
 ## Technical Decisions
 
 1. **State Management**: Redux Toolkit was chosen for its simplicity and built-in best practices
