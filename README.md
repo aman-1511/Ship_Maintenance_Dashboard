@@ -84,7 +84,7 @@ All data is persisted using localStorage. The following data structures are main
 1. Login Page
    ![1]( https://github.com/user-attachments/assets/9e1b952b-5a2a-4df3-a63b-5d4bece64d54)
 
-2. Login Page (Inspector) ![2](https://github.com/user-attachments/assets/a5f10a78-c97e-4c8c-81ee-d6a924b3ed2d)
+2. Login Page (Inspector) ![2](https://github.com/user-attachments/assets/48f1d33b-748f-4e87-9c35-ef8494fd4a9b)
 3.Dashboard
 ![3](https://github.com/user-attachments/assets/7433c690-93bd-48d7-8d7b-e0f7406ebd6e)
 
