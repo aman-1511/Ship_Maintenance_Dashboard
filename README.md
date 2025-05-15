@@ -2,6 +2,11 @@
 
 A comprehensive dashboard for managing ship maintenance operations, built with React and Material-UI.
 
+<h3>🚀 Live Demo</h3>
+<a href="https://ship-maintenance-dashboard-mauve.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/View_App-Click_Here-blue?style=for-the-badge" alt="Live Demo" />
+</a>
+
 ## Features
 
 - User Authentication (Simulated)
@@ -85,7 +90,7 @@ All data is persisted using localStorage. The following data structures are main
    ![1]( https://github.com/user-attachments/assets/9e1b952b-5a2a-4df3-a63b-5d4bece64d54)
 
 2. Login Page (Inspector) ![2](https://github.com/user-attachments/assets/48f1d33b-748f-4e87-9c35-ef8494fd4a9b)
-3.Dashboard
+3.Login Page
 ![3](https://github.com/user-attachments/assets/e7a65a80-95ee-4d8d-ae7c-b03578df5e4f)
 ![Image 1](https://github.com/user-attachments/assets/0c7c8ecd-e9ed-4b27-8847-1fcce009cdc6)
 ![Image 2](https://github.com/user-attachments/assets/6095a48e-2e99-48fd-a5dd-9ecfad0d386b)
